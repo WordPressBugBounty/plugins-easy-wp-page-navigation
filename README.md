@@ -1,0 +1,1 @@
+# plugins-easy-wp-page-navigation
